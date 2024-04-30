@@ -1,0 +1,13 @@
+﻿ID,Gender,Age,CarModel,Occupation,Income,Outcome
+1,Male,18,Volvo,None,0,Fail
+2,Female,19,Toyota,Teacher,0,Pass
+3,Male,17,Renault,Chef,20000,Pass
+4,Female,16,VW,Fireman,20000,Pass
+5,Male,20,BMW,Retail,30000,Pass
+6,Female,23,Audi,student,0,Fail
+7,Male,18,Ford,Student,0,Fail
+8,Female,25,Audi,Teacher,56000,Pass
+9,Male,19,Volvo,Student,0,Pass
+0,Female,30,Toyota,Teacher,55000,Pass
+11,Male,65,Volvo,None,30000,Fail
+12,Female,16,Audi,Student,0,Fail
